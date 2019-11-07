@@ -1,0 +1,23 @@
+{
+  "name": "npm-fund-test",
+  "version": "0.0.0",
+  "description": "This is a test project to try \"npm fund\" command. Just type \"npm fund\" and see what appears!",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm fund"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yukisato/npm-fund-test.git"
+  },
+  "author": "Yuki Sato",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yukisato/npm-fund-test/issues"
+  },
+  "homepage": "https://github.com/yukisato/npm-fund-test#readme",
+  "funding": {
+    "type": "patreon",
+    "url": "https://www.patreon.com/user?u=26669499"
+  }
+}
