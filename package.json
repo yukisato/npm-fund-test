@@ -1,6 +1,6 @@
 {
   "name": "npm-fund-test",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "This is a test project to try \"npm fund\" command. Just type \"npm fund\" and see what appears!",
   "main": "index.js",
   "scripts": {
@@ -18,6 +18,6 @@
   "homepage": "https://github.com/yukisato/npm-fund-test#readme",
   "funding": {
     "type": "patreon",
-    "url": "https://www.patreon.com/user?u=26669499"
+    "url": "https://www.patreon.com/yukisato"
   }
 }
